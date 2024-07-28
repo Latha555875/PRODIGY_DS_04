@@ -113,7 +113,13 @@ plt.show()
 This guide outlines the key steps for loading, cleaning, analyzing, and visualizing Twitter data. By using text preprocessing techniques and sentiment analysis with TextBlob, we can classify the sentiment of tweets and understand the overall sentiment distribution within the dataset.
 
 
+**License**
 
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+**Contact Information**
+
+For any queries or issues, please contact Latha at pulicheralalatha121@gmail.com
 
 
 
